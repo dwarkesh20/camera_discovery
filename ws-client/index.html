@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="referrer" content="no-referrer">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camera Scan Results</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>WebSocket Camera Scanner (POC)</h1>
+
+    <!-- Button to connect WebSocket -->
+    <button onclick="connect()" id="connectBtn">Connect WebSocket</button>
+    <button onclick="disconnect()" id="disconnectBtn" disabled>Disconnect WebSocket</button>
+    <p id="isConnected"></p>
+
+    <!-- Input field for subnet and button to initiate scan -->
+    <input id="subnetInput" type="text" placeholder="Type subnet (e.g., 192.168.1.0/24)" hidden>
+    <button onclick="scanSubnet()" id="scanBtn" disabled>Scan Subnet</button>
+    <div id="latency"></div>
+
+    <!-- Table to display camera scan results -->
+    <input type="text" id="searchIp" onkeyup="searchTable()" placeholder="Search IP...">
+    <table id="cameraTable">
+        <thead>
+            <tr>
+                <th onclick="sortTable(0)">Camera IP</th>
+                <th onclick="sortTable(1)">Ports</th>
+                <th onclick="sortTable(3)">Services</th>
+                <th>Username</th>
+                <th>Password</th>
+                <th>Get More Info</th>
+            </tr>
+        </thead>
+        <tbody id="cameraTableBody"></tbody>
+    </table>
+
+    <div id="paginationControls">
+        <button id="prevPage" onclick="prevPage()">Previous</button>
+        <span id="pageIndicator"></span>
+        <button id="nextPage" onclick="nextPage()">Next</button>
+    </div>
+
+    <div id="cameraInfoDisplay"></div>
+
+    <script src="./script.js"></script>
+</body>
+
+</html>

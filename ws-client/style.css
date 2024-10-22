@@ -1,0 +1,192 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f7f9fc;
+    margin: 0;
+    padding: 2rem;
+}
+
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+
+button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 10px 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #2980b9;
+}
+
+button:disabled {
+    background-color: #95a5a6;
+    cursor: not-allowed;
+}
+
+input[type="text"],input[type="password"] {
+    width: 300px;
+    padding: 10px;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+#latency h4, #latency h3 {
+    color: #2c3e50;
+}
+
+#latency ul {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#latency li {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: #ecf0f1;
+    flex: 1 0 20%;
+    text-align: center;
+    color: #34495e;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
+}
+
+td {
+    border-bottom: 1px solid #ddd;
+}
+
+tbody tr:hover {
+    background-color: #f2f2f2;
+}
+
+
+#paginationControls button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    margin: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#paginationControls button:disabled {
+    background-color: #95a5a6;
+    cursor: not-allowed;
+}
+
+#cameraInfoDisplay {
+    visibility: hidden;
+    margin-top: 20px;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+#searchIp {
+    visibility: hidden;
+    width: 100%;
+    max-width: 300px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    font-size: 14px;
+}
+
+@media (max-width: 600px) {
+    #latency li {
+        flex: 1 0 45%;
+    }
+
+    table, th, td {
+        font-size: 12px;
+    }
+
+    button, #searchIp {
+        width: 100%;
+        margin: 10px 0;
+    }
+}
+/* Styling for the camera information table */
+.info-header {
+    font-size: 20px;
+    color: #2c3e50;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.info-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.info-table td {
+    padding: 1rem;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.info-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+.info-table tr:hover {
+    background-color: #eaeaea;
+}
+
+.info-table strong {
+    color: #3498db;
+}
+
+/* Initially hide the table and pagination controls */
+#cameraTable {
+    visibility: hidden;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+#paginationControls {
+    display: none; /* Hide pagination controls initially */
+    margin: 1rem 0;
+    text-align: center;
+}

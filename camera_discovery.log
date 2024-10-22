@@ -1,0 +1,592 @@
+[2024-10-21 12:10:50,503:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:10:50,504:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:10:52,187:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.56.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.48.0/23', '172.25.60.0/23', '172.25.58.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.112.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.126.0/23', '172.25.116.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:10:53,469:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.2739505767822266s
+[2024-10-21 12:11:37,100:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:11:37,100:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:11:38,804:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.48.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.120.0/23', '172.25.116.0/23', '172.25.122.0/23', '172.25.118.0/23', '172.25.112.0/23', '172.25.114.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:11:40,340:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.521740198135376s
+[2024-10-21 12:12:06,010:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:12:06,011:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:12:07,632:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.6.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.48.0/23', '172.25.56.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:12:09,357:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.7199275493621826s
+[2024-10-21 12:12:32,655:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:12:32,655:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:12:34,349:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.114.0/23', '172.25.116.0/23', '172.25.112.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:12:35,904:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.549936294555664s
+[2024-10-21 12:12:52,793:iapi_info.py:41:get_camera_info:INFO] iAPI Error: module 'fastapi.requests' has no attribute 'Session'
+[2024-10-21 12:14:24,367:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:14:24,368:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:14:26,127:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.2.0/23', '172.25.0.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.6.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.112.0/23', '172.25.118.0/23', '172.25.120.0/23', '172.25.114.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:14:27,433:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.2999825477600098s
+[2024-10-21 12:14:38,932:iapi_info.py:41:get_camera_info:INFO] iAPI Error: HTTPSConnectionPool(host='none', port=443): Max retries exceeded with url: /iAPI/element.cgi?action=read&group=System&group=Network.MacAddress (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f82cc516130>: Failed to resolve 'none' ([Errno -3] Temporary failure in name resolution)"))
+[2024-10-21 12:16:57,109:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:16:57,110:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:16:58,850:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.4.0/23', '172.25.20.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.52.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.114.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:17:00,573:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.706956148147583s
+[2024-10-21 12:17:12,670:iapi_info.py:16:get_camera_info:INFO] {'action': 'iapi_call', 'username': '', 'password': ''}
+[2024-10-21 12:17:12,671:iapi_info.py:19:get_camera_info:INFO] https://None/iAPI/element.cgi?action=read&group=System&group=Network.MacAddress
+[2024-10-21 12:17:12,710:iapi_info.py:43:get_camera_info:INFO] iAPI Error: HTTPSConnectionPool(host='none', port=443): Max retries exceeded with url: /iAPI/element.cgi?action=read&group=System&group=Network.MacAddress (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc7ec7490d0>: Failed to resolve 'none' ([Errno -3] Temporary failure in name resolution)"))
+[2024-10-21 12:18:05,218:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:18:05,220:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:18:07,039:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.20.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.52.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.114.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:18:08,697:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.652580976486206s
+[2024-10-21 12:18:18,258:iapi_info.py:16:get_camera_info:INFO] {'action': 'iapi_call', 'username': '', 'password': ''}
+[2024-10-21 12:18:18,258:iapi_info.py:19:get_camera_info:INFO] https://None/iAPI/element.cgi?action=read&group=System&group=Network.MacAddress
+[2024-10-21 12:18:18,298:iapi_info.py:43:get_camera_info:INFO] iAPI Error: HTTPSConnectionPool(host='none', port=443): Max retries exceeded with url: /iAPI/element.cgi?action=read&group=System&group=Network.MacAddress (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc7ecfc1520>: Failed to resolve 'none' ([Errno -3] Temporary failure in name resolution)"))
+[2024-10-21 12:24:16,210:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:24:16,210:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:24:17,908:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.6.0/23', '172.25.24.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.52.0/23', '172.25.58.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.116.0/23', '172.25.120.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:24:19,680:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.766836404800415s
+[2024-10-21 12:24:39,161:iapi_info.py:16:get_camera_info:INFO] {'action': 'iapi_call', 'username': '', 'password': ''}
+[2024-10-21 12:24:39,161:iapi_info.py:19:get_camera_info:INFO] https://None/iAPI/element.cgi?action=read&group=System&group=Network.MacAddress
+[2024-10-21 12:24:39,213:iapi_info.py:43:get_camera_info:INFO] iAPI Error: HTTPSConnectionPool(host='none', port=443): Max retries exceeded with url: /iAPI/element.cgi?action=read&group=System&group=Network.MacAddress (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f07402c0f40>: Failed to resolve 'none' ([Errno -3] Temporary failure in name resolution)"))
+[2024-10-21 12:27:55,713:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:27:55,713:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:27:57,399:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.20.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.48.0/23', '172.25.40.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.50.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:27:59,159:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.7518444061279297s
+[2024-10-21 12:28:12,200:iapi_info.py:16:get_camera_info:INFO] {'action': 'iapi_call', 'host': '172.25.6.146', 'username': '', 'password': ''}
+[2024-10-21 12:28:12,200:iapi_info.py:19:get_camera_info:INFO] https://172.25.6.146/iAPI/element.cgi?action=read&group=System&group=Network.MacAddress
+[2024-10-21 12:28:12,277:iapi_info.py:26:get_camera_info:INFO] <Response [401]>
+[2024-10-21 12:28:12,277:iapi_info.py:39:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 12:30:56,578:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:30:56,578:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:30:58,462:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.4.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.40.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.60.0/23', '172.25.54.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.72.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.112.0/23', '172.25.116.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:30:59,767:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.2982761859893799s
+[2024-10-21 12:31:38,431:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:31:38,431:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:31:40,270:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.6.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.72.0/23', '172.25.114.0/23', '172.25.116.0/23', '172.25.112.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.120.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:31:41,862:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5855028629302979s
+[2024-10-21 12:32:15,134:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:32:15,134:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:32:16,775:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.58.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.116.0/23', '172.25.120.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:32:18,407:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.6225881576538086s
+[2024-10-21 12:32:23,000:iapi_info.py:16:get_camera_info:INFO] {'action': 'iapi_call', 'host': '172.25.6.146', 'username': 'admin', 'password': 'passwordCell'}
+[2024-10-21 12:32:23,000:iapi_info.py:19:get_camera_info:INFO] https://172.25.6.146/iAPI/element.cgi?action=read&group=System&group=Network.MacAddress
+[2024-10-21 12:32:23,070:iapi_info.py:26:get_camera_info:INFO] <Response [401]>
+[2024-10-21 12:32:23,070:iapi_info.py:39:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 12:33:13,709:iapi_info.py:16:get_camera_info:INFO] {'action': 'iapi_call', 'host': '172.25.6.146', 'username': 'admin', 'password': 'Tyco-JCI1'}
+[2024-10-21 12:33:13,709:iapi_info.py:19:get_camera_info:INFO] https://172.25.6.146/iAPI/element.cgi?action=read&group=System&group=Network.MacAddress
+[2024-10-21 12:33:13,796:iapi_info.py:26:get_camera_info:INFO] <Response [200]>
+[2024-10-21 12:33:13,796:iapi_info.py:36:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 12:33:21,070:iapi_info.py:16:get_camera_info:INFO] {'action': 'iapi_call', 'host': '172.25.6.146', 'username': 'admin', 'password': 'Tyco-JCI1'}
+[2024-10-21 12:33:21,071:iapi_info.py:19:get_camera_info:INFO] https://172.25.6.146/iAPI/element.cgi?action=read&group=System&group=Network.MacAddress
+[2024-10-21 12:33:21,145:iapi_info.py:26:get_camera_info:INFO] <Response [200]>
+[2024-10-21 12:33:21,145:iapi_info.py:36:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 12:33:30,794:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:33:30,794:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:33:32,608:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.4.0/23', '172.25.2.0/23', '172.25.8.0/23', '172.25.6.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.20.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.116.0/23', '172.25.122.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 12:33:34,255:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.6360037326812744s
+[2024-10-21 12:33:51,254:iapi_info.py:16:get_camera_info:INFO] {'action': 'iapi_call', 'host': '172.25.6.146', 'username': 'admin', 'password': 'Tyco-JCI1'}
+[2024-10-21 12:33:51,255:iapi_info.py:19:get_camera_info:INFO] https://172.25.6.146/iAPI/element.cgi?action=read&group=System&group=Network.MacAddress
+[2024-10-21 12:33:51,326:iapi_info.py:26:get_camera_info:INFO] <Response [200]>
+[2024-10-21 12:33:51,326:iapi_info.py:36:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 12:37:29,873:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 12:37:29,874:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 12:37:31,560:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.126.0/23', '172.25.120.0/23', '172.25.118.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 12:37:33,090:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5248572826385498s
+[2024-10-21 12:37:42,083:iapi_info.py:16:get_camera_info:INFO] {'action': 'iapi_call', 'host': '172.25.6.146', 'username': 'admin', 'password': 'Tyco-JCI1'}
+[2024-10-21 12:37:42,083:iapi_info.py:19:get_camera_info:INFO] https://172.25.6.146/iAPI/element.cgi?action=read&group=System&group=Network.MacAddress
+[2024-10-21 12:37:42,206:iapi_info.py:26:get_camera_info:INFO] <Response [200]>
+[2024-10-21 12:37:42,207:iapi_info.py:36:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 14:00:34,260:subnetmanager.py:85:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 14:00:34,260:subnetmanager.py:98:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 14:00:35,957:subnetmanager.py:65:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 14:00:37,490:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.527289628982544s
+[2024-10-21 14:42:32,458:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 14:42:32,458:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 14:42:34,134:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.4.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.54.0/23', '172.25.60.0/23', '172.25.56.0/23', '172.25.52.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 14:42:35,438:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.296980619430542s
+[2024-10-21 14:46:16,012:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 14:46:16,013:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 14:46:17,732:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.40.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.56.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.126.0/23', '172.25.210.0/23', '172.25.202.0/23', '172.25.212.0/23']
+[2024-10-21 14:46:19,498:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.7630033493041992s
+[2024-10-21 14:46:38,676:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 Not Found</title>
+ </head>
+ <body>
+  <h1>404 Not Found</h1>
+ </body>
+</html>
+
+[2024-10-21 14:52:38,621:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 14:52:38,621:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 14:52:40,392:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.6.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.20.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.60.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.116.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.210.0/23', '172.25.212.0/23', '172.25.202.0/23']
+[2024-10-21 14:52:41,991:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5901432037353516s
+[2024-10-21 14:53:03,385:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 Not Found</title>
+ </head>
+ <body>
+  <h1>404 Not Found</h1>
+ </body>
+</html>
+
+[2024-10-21 14:55:57,506:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 Not Found</title>
+ </head>
+ <body>
+  <h1>404 Not Found</h1>
+ </body>
+</html>
+
+[2024-10-21 15:03:34,379:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 15:03:34,379:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 15:03:36,078:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.120.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 15:03:37,619:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.536059856414795s
+[2024-10-21 15:03:58,499:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 15:04:53,139:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 15:04:53,140:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 15:04:54,811:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.116.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 15:04:56,365:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5476562976837158s
+[2024-10-21 15:05:02,347:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 15:05:02,348:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 15:05:04,014:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.50.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.112.0/23', '172.25.126.0/23', '172.25.116.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 15:05:05,702:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.6831486225128174s
+[2024-10-21 15:05:51,943:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 15:05:51,944:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 15:05:53,654:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.60.0/23', '172.25.56.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.72.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.112.0/23', '172.25.126.0/23', '172.25.116.0/23', '172.25.122.0/23', '172.25.118.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 15:05:54,828:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.1654636859893799s
+[2024-10-21 15:07:23,468:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 15:07:23,468:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 15:07:25,236:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.4.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.114.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.210.0/23', '172.25.202.0/23', '172.25.212.0/23']
+[2024-10-21 15:07:26,506:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.2651622295379639s
+[2024-10-21 15:07:28,463:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 15:07:28,463:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 15:07:30,157:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.2.0/23', '172.25.0.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.6.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.122.0/23', '172.25.118.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 15:07:31,917:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.743884563446045s
+[2024-10-21 15:07:37,395:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 15:07:37,396:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 15:07:39,073:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.60.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.120.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.122.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.126.0/23', '172.25.210.0/23', '172.25.212.0/23', '172.25.202.0/23']
+[2024-10-21 15:07:40,124:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.0438339710235596s
+[2024-10-21 15:32:22,421:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 15:32:22,422:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 15:32:24,017:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.4.0/23', '172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.50.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.114.0/23', '172.25.126.0/23', '172.25.120.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 15:32:25,290:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.2699763774871826s
+[2024-10-21 15:32:35,104:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 17:26:29,578:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:26:29,580:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:26:31,323:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.2.0/23', '172.25.0.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.6.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.56.0/23', '172.25.72.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.116.0/23', '172.25.112.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 17:26:32,522:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.1918339729309082s
+[2024-10-21 17:27:12,554:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:27:12,554:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:27:14,185:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.114.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 17:27:15,569:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.3791909217834473s
+[2024-10-21 17:28:10,961:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:28:10,961:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:28:12,542:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.112.0/23', '172.25.118.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 17:28:13,740:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.1831324100494385s
+[2024-10-21 17:28:36,863:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 17:29:25,145:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:29:25,146:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:29:26,797:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.112.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.120.0/23', '172.25.116.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 17:29:27,996:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.1919784545898438s
+[2024-10-21 17:31:49,175:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:31:49,176:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:31:50,895:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.60.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.72.0/23', '172.25.62.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.114.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 17:31:52,026:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.1244113445281982s
+[2024-10-21 17:32:04,567:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 17:33:27,594:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:33:27,594:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:33:29,281:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.120.0/23', '172.25.118.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 17:33:30,588:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.2994179725646973s
+[2024-10-21 17:33:41,510:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 17:35:07,063:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:35:07,063:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:35:08,727:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.62.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.60.0/23', '172.25.58.0/23', '172.25.72.0/23', '172.25.112.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 17:35:10,128:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.397963285446167s
+[2024-10-21 17:35:18,900:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 17:43:20,303:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:43:20,304:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:43:22,048:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.120.0/23', '172.25.112.0/23', '172.25.116.0/23', '172.25.122.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 17:43:23,434:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.381730318069458s
+[2024-10-21 17:43:34,706:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 17:53:36,008:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:53:36,009:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:53:37,684:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.2.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.20.0/23', '172.25.40.0/23', '172.25.52.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.58.0/23', '172.25.50.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 17:53:39,328:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.6362073421478271s
+[2024-10-21 17:54:05,455:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 17:54:24,441:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 17:54:25,512:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 17:54:25,651:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 17:54:25,805:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 17:54:25,939:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 17:54:49,210:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 17:54:52,173:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:54:52,173:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:54:53,850:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.50.0/23', '172.25.58.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.120.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 17:54:55,488:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.6308984756469727s
+[2024-10-21 17:55:04,620:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 17:56:34,392:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:56:34,392:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:56:36,143:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.6.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.40.0/23', '172.25.72.0/23', '172.25.56.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.112.0/23', '172.25.114.0/23', '172.25.126.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 17:56:37,654:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.506286859512329s
+[2024-10-21 17:57:04,426:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 17:57:13,297:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 17:57:19,792:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 17:57:47,905:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:57:47,906:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:57:49,628:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.4.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.62.0/23', '172.25.52.0/23', '172.25.60.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.72.0/23', '172.25.114.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 17:57:51,514:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.8828773498535156s
+[2024-10-21 17:59:13,033:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:59:13,033:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:59:14,733:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 17:59:16,364:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.62260103225708s
+[2024-10-21 17:59:20,179:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 Not Found</title>
+ </head>
+ <body>
+  <h1>404 Not Found</h1>
+ </body>
+</html>
+
+[2024-10-21 17:59:23,368:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 Not Found</title>
+ </head>
+ <body>
+  <h1>404 Not Found</h1>
+ </body>
+</html>
+
+[2024-10-21 17:59:26,314:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>401 - Unauthorized</title>
+ </head>
+ <body>
+  <h1>401 - Unauthorized</h1>
+ </body>
+</html>
+
+[2024-10-21 17:59:45,645:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 17:59:45,646:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 17:59:47,358:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.14.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.52.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.50.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.212.0/23', '172.25.202.0/23', '172.25.210.0/23']
+[2024-10-21 17:59:48,904:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5397441387176514s
+[2024-10-21 17:59:51,593:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 Not Found</title>
+ </head>
+ <body>
+  <h1>404 Not Found</h1>
+ </body>
+</html>
+
+[2024-10-21 18:01:57,211:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:01:57,212:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:01:58,903:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:02:00,456:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.540947437286377s
+[2024-10-21 18:02:02,245:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 Not Found</title>
+ </head>
+ <body>
+  <h1>404 Not Found</h1>
+ </body>
+</html>
+
+[2024-10-21 18:04:05,756:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:04:05,757:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:04:07,453:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.4.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.52.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.58.0/23', '172.25.54.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.56.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:04:08,973:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5143582820892334s
+[2024-10-21 18:04:10,734:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 Not Found</title>
+ </head>
+ <body>
+  <h1>404 Not Found</h1>
+ </body>
+</html>
+
+[2024-10-21 18:05:01,959:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:05:01,960:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:05:03,627:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.60.0/23', '172.25.58.0/23', '172.25.62.0/23', '172.25.52.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:05:05,218:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5772457122802734s
+[2024-10-21 18:05:07,564:iapi_info.py:40:get_camera_info:INFO] iAPI Error: <?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+         "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>404 Not Found</title>
+ </head>
+ <body>
+  <h1>404 Not Found</h1>
+ </body>
+</html>
+
+[2024-10-21 18:09:38,273:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:09:38,273:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:09:39,974:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:09:41,713:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.7327332496643066s
+[2024-10-21 18:18:03,891:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:18:03,892:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:18:05,645:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.2.0/23', '172.25.8.0/23', '172.25.20.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.58.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.56.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.114.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:18:07,201:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5511724948883057s
+[2024-10-21 18:19:13,631:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:19:13,632:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:19:15,346:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:19:16,948:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5942714214324951s
+[2024-10-21 18:20:35,595:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:20:35,596:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:20:37,284:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.50.0/23', '172.25.40.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.52.0/23', '172.25.48.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:20:38,853:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5615086555480957s
+[2024-10-21 18:21:26,083:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:21:26,084:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:21:27,802:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:21:29,413:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.6067254543304443s
+[2024-10-21 18:24:45,309:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:24:45,309:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:24:46,993:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:24:48,549:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5495316982269287s
+[2024-10-21 18:25:20,321:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:25:20,321:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:25:22,082:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.56.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.112.0/23', '172.25.116.0/23', '172.25.120.0/23', '172.25.114.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:25:23,556:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.4693732261657715s
+[2024-10-21 18:25:37,231:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 18:26:20,159:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:26:20,160:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:26:21,931:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.20.0/23', '172.25.40.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.116.0/23', '172.25.120.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:26:23,310:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.368821620941162s
+[2024-10-21 18:26:38,837:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 18:27:35,908:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:27:35,909:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:27:37,573:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.20.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:27:38,924:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.3429341316223145s
+[2024-10-21 18:27:49,556:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:27:49,556:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:27:51,234:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.6.0/23', '172.25.4.0/23', '172.25.2.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.58.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.56.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.116.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 18:27:52,692:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.450190782546997s
+[2024-10-21 18:28:20,737:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:28:20,737:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:28:22,424:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.56.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.122.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.112.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 18:28:23,794:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.3544678688049316s
+[2024-10-21 18:28:41,096:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:28:41,096:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:28:42,767:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:28:44,189:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.416152000427246s
+[2024-10-21 18:29:35,444:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:29:35,444:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:29:37,201:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.4.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:29:38,666:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.4580073356628418s
+[2024-10-21 18:32:58,209:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:32:58,210:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:32:59,905:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:33:01,548:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.633758306503296s
+[2024-10-21 18:39:15,491:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:39:15,491:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:39:17,247:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.6.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.56.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.58.0/23', '172.25.54.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:39:19,033:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.7800211906433105s
+[2024-10-21 18:39:41,117:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 18:43:08,310:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:43:08,311:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:43:10,038:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.60.0/23', '172.25.58.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.112.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 18:43:11,520:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.4773552417755127s
+[2024-10-21 18:43:31,841:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 18:47:23,391:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:47:23,392:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:47:25,172:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.56.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:47:26,830:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.6533315181732178s
+[2024-10-21 18:49:34,135:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:49:34,136:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:49:35,944:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.4.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.20.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.56.0/23', '172.25.62.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:49:37,482:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5338797569274902s
+[2024-10-21 18:51:10,058:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:51:10,058:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:51:11,793:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.20.0/23', '172.25.48.0/23', '172.25.40.0/23', '172.25.54.0/23', '172.25.50.0/23', '172.25.56.0/23', '172.25.52.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.120.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:51:13,382:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5830767154693604s
+[2024-10-21 18:51:20,074:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:51:20,075:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:51:21,830:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.14.0/23', '172.25.8.0/23', '172.25.24.0/23', '172.25.20.0/23', '172.25.40.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.48.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.114.0/23', '172.25.126.0/23', '172.25.112.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:51:23,550:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.7051291465759277s
+[2024-10-21 18:52:11,577:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:52:11,577:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:52:13,360:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.120.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:52:15,043:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.663036584854126s
+[2024-10-21 18:58:41,957:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:58:41,958:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:58:43,632:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.4.0/23', '172.25.2.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.56.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.58.0/23', '172.25.54.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.112.0/23', '172.25.210.0/23', '172.25.212.0/23', '172.25.202.0/23']
+[2024-10-21 18:58:45,222:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5859160423278809s
+[2024-10-21 18:59:35,172:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:59:35,173:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:59:36,986:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.2.0/23', '172.25.4.0/23', '172.25.0.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.112.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.212.0/23', '172.25.202.0/23', '172.25.210.0/23']
+[2024-10-21 18:59:38,896:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.9045584201812744s
+[2024-10-21 18:59:48,347:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 18:59:48,348:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 18:59:50,013:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.20.0/23', '172.25.40.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.56.0/23', '172.25.48.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.54.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 18:59:51,641:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.6208221912384033s
+[2024-10-21 19:00:28,341:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 19:00:28,341:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 19:00:30,024:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.8.0/23', '172.25.6.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 19:00:31,535:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5045108795166016s
+[2024-10-21 19:00:35,017:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 19:00:35,017:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 19:00:36,782:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.54.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.120.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 19:00:38,358:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5618116855621338s
+[2024-10-21 19:00:42,286:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 19:00:42,286:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 19:00:44,009:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.48.0/23', '172.25.54.0/23', '172.25.56.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.62.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.112.0/23', '172.25.120.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.212.0/23', '172.25.210.0/23']
+[2024-10-21 19:00:45,523:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.5076076984405518s
+[2024-10-21 19:01:20,915:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}
+[2024-10-21 19:21:54,052:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 19:21:54,052:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 19:21:55,735:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.58.0/23', '172.25.62.0/23', '172.25.60.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.118.0/23', '172.25.114.0/23', '172.25.120.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 19:21:57,382:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.6392340660095215s
+[2024-10-21 19:23:03,984:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-21 19:23:03,985:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-21 19:23:05,751:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.0.0/23', '172.25.2.0/23', '172.25.4.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.20.0/23', '172.25.24.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.50.0/23', '172.25.52.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.114.0/23', '172.25.118.0/23', '172.25.116.0/23', '172.25.120.0/23', '172.25.112.0/23', '172.25.122.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-21 19:23:07,205:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.4455318450927734s
+[2024-10-22 17:38:56,984:subnetmanager.py:90:get_ip_and_subnet:INFO] IP Address: 172.25.6.235, Subnet Mask: 23, Network: 172.25.6.0/23
+[2024-10-22 17:38:56,985:subnetmanager.py:103:calculate_base_subnet:INFO] Calculated base subnet: 172.25.0.0/16
+[2024-10-22 17:38:58,598:subnetmanager.py:70:find_alive_subnets:INFO] Alive subnets found: ['172.25.2.0/23', '172.25.4.0/23', '172.25.0.0/23', '172.25.6.0/23', '172.25.8.0/23', '172.25.14.0/23', '172.25.24.0/23', '172.25.20.0/23', '172.25.40.0/23', '172.25.48.0/23', '172.25.52.0/23', '172.25.50.0/23', '172.25.56.0/23', '172.25.54.0/23', '172.25.62.0/23', '172.25.58.0/23', '172.25.60.0/23', '172.25.72.0/23', '172.25.116.0/23', '172.25.122.0/23', '172.25.118.0/23', '172.25.120.0/23', '172.25.112.0/23', '172.25.114.0/23', '172.25.126.0/23', '172.25.202.0/23', '172.25.210.0/23', '172.25.212.0/23']
+[2024-10-22 17:38:59,828:nmap_discovery.py:50:discover_cameras:INFO] scan completed in 1.2259736061096191s
+[2024-10-22 17:39:23,605:iapi_info.py:33:get_camera_info:INFO] iAPI response: {'System.ApiWildCardEnabled': '1', 'System.AudioSourceCount': '1', 'System.ConfigurationStatus': '1', 'System.DeferSetup': '0', 'System.DeviceID': '******', 'System.FriendlyName': 'Illustra Anand', 'System.Hostname': 'T10A220400002036', 'System.ImageSourceCount': '1', 'System.ManufacturedDate': '01-19-2022', 'System.ModelName': 'Illustra Pro3', 'System.ProductCode': 'IPS02-D12-OI04', 'System.SerialNumber': 'T10A220400002036', 'System.Version.Firmware': 'Illustra.SS016.05.03.00.0002', 'System.Version.Hardware': 'C0', 'System.Version.iAPI': '3.4.4', 'Network.MacAddress': '00:50:F9:67:CE:69'}

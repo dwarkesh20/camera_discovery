@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+requests
+zeep
+netifaces
+urllib3
